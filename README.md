@@ -1,4 +1,4 @@
-# Interactive-Stone-Paper-Scissors-Game-in-C-
+# Interactive-Stone-Paper-Scissors-Game-in-C++
 
 This C++ project is a console-based implementation of the classic Stone-Paper-Scissors game, providing an interactive experience between a player and the computer. 
 The program allows users to play multiple rounds, track scores, and determine the overall winner. Key features include:
