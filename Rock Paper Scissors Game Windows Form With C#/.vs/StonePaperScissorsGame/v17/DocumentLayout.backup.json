@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XPRISTO\\Desktop\\Programming Fundamentals course\\14 - C# - Level 1\\Projects\\StonePaperScissorsGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{746EAAFC-6262-4C84-9351-10304EB55C64}|StonePaperScissorsGame.csproj|c:\\users\\xpristo\\desktop\\programming fundamentals course\\14 - c# - level 1\\projects\\stonepaperscissorsgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746EAAFC-6262-4C84-9351-10304EB55C64}|StonePaperScissorsGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746EAAFC-6262-4C84-9351-10304EB55C64}|StonePaperScissorsGame.csproj|C:\\Users\\XPRISTO\\Desktop\\Programming Fundamentals course\\14 - C# - Level 1\\Projects\\StonePaperScissorsGame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{746EAAFC-6262-4C84-9351-10304EB55C64}|StonePaperScissorsGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\Desktop\\Programming Fundamentals course\\14 - C# - Level 1\\Projects\\StonePaperScissorsGame\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\Desktop\\Programming Fundamentals course\\14 - C# - Level 1\\Projects\\StonePaperScissorsGame\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAqwLIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:51:16.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\XPRISTO\\Desktop\\Programming Fundamentals course\\14 - C# - Level 1\\Projects\\StonePaperScissorsGame\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\XPRISTO\\Desktop\\Programming Fundamentals course\\14 - C# - Level 1\\Projects\\StonePaperScissorsGame\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:51:40.63Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
