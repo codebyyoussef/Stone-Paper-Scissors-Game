@@ -1,0 +1,10 @@
+C:\Users\XPRISTO\Desktop\Programming Fundamentals course\14 - C# - Level 1\Projects\StonePaperScissorsGame\bin\Debug\StonePaperScissorsGame.exe.config
+C:\Users\XPRISTO\Desktop\Programming Fundamentals course\14 - C# - Level 1\Projects\StonePaperScissorsGame\bin\Debug\StonePaperScissorsGame.exe
+C:\Users\XPRISTO\Desktop\Programming Fundamentals course\14 - C# - Level 1\Projects\StonePaperScissorsGame\bin\Debug\StonePaperScissorsGame.pdb
+C:\Users\XPRISTO\Desktop\Programming Fundamentals course\14 - C# - Level 1\Projects\StonePaperScissorsGame\obj\Debug\StonePaperScissorsGame.csproj.AssemblyReference.cache
+C:\Users\XPRISTO\Desktop\Programming Fundamentals course\14 - C# - Level 1\Projects\StonePaperScissorsGame\obj\Debug\StonePaperScissorsGame.Form1.resources
+C:\Users\XPRISTO\Desktop\Programming Fundamentals course\14 - C# - Level 1\Projects\StonePaperScissorsGame\obj\Debug\StonePaperScissorsGame.Properties.Resources.resources
+C:\Users\XPRISTO\Desktop\Programming Fundamentals course\14 - C# - Level 1\Projects\StonePaperScissorsGame\obj\Debug\StonePaperScissorsGame.csproj.GenerateResource.cache
+C:\Users\XPRISTO\Desktop\Programming Fundamentals course\14 - C# - Level 1\Projects\StonePaperScissorsGame\obj\Debug\StonePaperScissorsGame.csproj.CoreCompileInputs.cache
+C:\Users\XPRISTO\Desktop\Programming Fundamentals course\14 - C# - Level 1\Projects\StonePaperScissorsGame\obj\Debug\StonePaperScissorsGame.exe
+C:\Users\XPRISTO\Desktop\Programming Fundamentals course\14 - C# - Level 1\Projects\StonePaperScissorsGame\obj\Debug\StonePaperScissorsGame.pdb
